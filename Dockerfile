@@ -1,4 +1,4 @@
-FROM debian:12.2
+FROM debian:12.4
 
 RUN apt-get update
 RUN apt-get -y upgrade
