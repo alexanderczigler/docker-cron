@@ -1,4 +1,4 @@
-FROM debian:12.5
+FROM debian:12.7
 
 RUN apt-get update
 RUN apt-get -y upgrade
